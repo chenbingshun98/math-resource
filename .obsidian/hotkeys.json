@@ -1,0 +1,18 @@
+{
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ]
+}
