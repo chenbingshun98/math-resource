@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "t2.md",
+            "file": "t1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t2.md",
+                "file": "t1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "75df167991630d10",
   "lastOpenFiles": [
-    "t2.md",
     "t1.md",
+    "t2.md",
     "未命名.md"
   ]
 }
